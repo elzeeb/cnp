@@ -1,0 +1,6 @@
+{
+  "name": "CartonRate",
+  "description": "প্যাকেজিং ও করোগেটেড কার্টন বক্স রেট ক্যালকুলেটর - Corrugated Carton Rate & Cost Estimation Suite",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
